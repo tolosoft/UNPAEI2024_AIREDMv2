@@ -9,10 +9,10 @@ Este repositorio contiene notebooks Python con ejemplos y ejercicios que cubren 
 Este curso presenta algunas de las técnicas actuales detrás de las aplicaciones de búsqueda de escala web que se utilizan diariamente (considerando tanto eficacia como eficiencia). Se propone un enfoque práctico donde cada día se prueben en código algunas de las ideas presentadas. Las clases están divididas en cinco temas:
 
 
-- Presentación [[Diapos]](https://docs.google.com/presentation/d/1mfWtzMN_0a1DTIGAs4F6zfGGQFiD5WkjepYTMECx_HA/edit?usp=drive_link)
-- Día 1: Indexación y Recuperación [[Diapos]]()
-- Día 2: Compresión [[Diapos]]()
-- Día 3: Caching [[Diapos]]()
+- Presentación [[Diapos]](https://docs.google.com/presentation/d/1PmNESuk9vGONW5ZA2jTEMD0hP_3vMTAUg663iHru65g/edit#slide=id.g24bd9a771fb_0_604)
+- Día 1: Indexación y Recuperación [[Diapos]](https://docs.google.com/presentation/d/1mfWtzMN_0a1DTIGAs4F6zfGGQFiD5WkjepYTMECx_HA/edit?usp=drive_link)
+- Día 2: Compresión [[Diapos]](https://docs.google.com/presentation/d/1qFRyOdOYwM7DP0DgPoNZ6sxp6NBR3kH7Xdzdd07hCk0/edit#slide=id.gbcab2c191d_0_182)
+- Día 3: Caching [[Diapos]](https://docs.google.com/presentation/d/1JgqGI618nejYWOmo1smWds5RW6nt6PyR9nPuJ317U_8/edit)
 - Día 4: Representaciones Densas y Recuparación [[Diapos]]()
 - Día 5: Aplicaciones [[Diapos]]()
 - Cierre [[Diapos]]()
