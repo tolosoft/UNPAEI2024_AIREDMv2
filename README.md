@@ -13,7 +13,7 @@ Este curso presenta algunas de las técnicas actuales detrás de las aplicacione
 - Día 1: Indexación y Recuperación [[Diapos]](https://docs.google.com/presentation/d/1mfWtzMN_0a1DTIGAs4F6zfGGQFiD5WkjepYTMECx_HA/edit?usp=drive_link)
 - Día 2: Compresión [[Diapos]](#https://docs.google.com/presentation/d/1qFRyOdOYwM7DP0DgPoNZ6sxp6NBR3kH7Xdzdd07hCk0/edit#slide=id.gbcab2c191d_0_182)
 - Día 3: Caching [[Diapos]](#https://docs.google.com/presentation/d/1JgqGI618nejYWOmo1smWds5RW6nt6PyR9nPuJ317U_8/edit)
-- Día 4: Representaciones Densas y Recuparación [[Diapos]](https://docs.google.com/presentation/d/1z33hYWVSqNd5GNyFO2l_QGy_hXUznQ8MtMaKthFZV7g/edit#slide=id.g24bd9a771fb_0_604)
+- Día 4: Representaciones Densas y Recuparación [[Diapos]](#https://docs.google.com/presentation/d/1z33hYWVSqNd5GNyFO2l_QGy_hXUznQ8MtMaKthFZV7g/edit#slide=id.g24bd9a771fb_0_604)
 - Día 5: Aplicaciones [[Diapos]](#https://docs.google.com/presentation/d/1fO9oSeizhWeG2xKeORCcMDrhj50jyGJi2hrWrQB3va4/edit#slide=id.g24bd9a771fb_0_604)
 - Cierre [[Diapos]](#https://docs.google.com/presentation/d/1zuq8XEN9Qz3DrXqWDct3VJvyYV43HGyZlWjreXGtRxg/edit#slide=id.g2204e00caf1_0_2)
 
