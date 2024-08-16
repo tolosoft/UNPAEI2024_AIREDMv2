@@ -25,7 +25,7 @@ $ git clone https://github.com/tolosoft/UNPAEI2024_AIREDMv2.git
 Ejecutar la siguiente imagen de Docker (la primera vez se descarga de [Docker Hub](https://hub.docker.com/repository/docker/tolosoft/cacic_airedm/general)):
 
 ```
-$ docker run -p 8888:8888 -w /home/tolosoft -v "/home/tolosoft:/home/tolosoft" -it tolosoft/pyterrier:latest
+$ docker run -p 8888:8888 -w /home/tolosoft -v "/home/tolosoft:/home/tolosoft" -it tolosoft/unpaei_airem2:latest
 ```
 
 La misma está basada en jupyter/base-notebook (https://hub.docker.com/r/jupyter/base-notebook) y contiene todas la librerías necesarias para ejecutar los ejemplos del curso. 
